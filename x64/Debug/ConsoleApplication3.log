@@ -1,0 +1,16 @@
+﻿  ConsoleApplication3.cpp
+  sort_class.cpp
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(22,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(23,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(24,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(64,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(65,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(66,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(72,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(153,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(175,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(286,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(351,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\arseniy\source\repos\ConsoleApplication3\ConsoleApplication3\sort_class.cpp(357,48): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  Создание кода...
+  ConsoleApplication3.vcxproj -> C:\Users\arseniy\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
